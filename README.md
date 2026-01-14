@@ -1,4 +1,7 @@
-## Hi there 👋
+# EMILY C PEREZ ANGEL
+## Master's student in Full Stack Web Development
+### 🧪 R&D&I | 📊 Data Analyst | 🌱 Agribusiness | 👩🏻‍💻 Virtual Assistant 🆙
+
 
 <!--
 **emilyperezangel/emilyperezangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
