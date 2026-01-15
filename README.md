@@ -1,5 +1,5 @@
 # EMILY C PEREZ ANGEL
-## _Master's student in Full Stack Web Development_ 
+## _Full Stack Web Development Master's student_ 
 ### 🧪 R&D&I | 📊 Data Analyst | 🌱 Agribusiness | 👩🏻‍💻 Virtual Assistant 🆙
 
 
