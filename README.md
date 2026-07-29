@@ -9,7 +9,7 @@
 <img height="200" src="https://github.com/user-attachments/assets/fc15525d-fda9-4bc0-b044-aa3e7fe164d5">
   <a/>
 
-<a href="(https://emilyperezangel.github.io/coworking-space/">
+<a href="https://emilyperezangel.github.io/coworking-space/">
 <img height="200" src="https://github.com/user-attachments/assets/4a010faf-9db0-414e-890e-ccce6002e62b">
   <a/>
 
