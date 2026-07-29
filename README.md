@@ -10,10 +10,12 @@
   <a/>
 
 <a href="https://emilyperezangel.github.io/coworking-space/">
-  <img height="200" alt="image" src="https://github.com/user-attachments/assets/a6d7bfb4-7259-44c3-8e1d-e519c971a261" />
+  <img height="200" src="https://github.com/user-attachments/assets/a6d7bfb4-7259-44c3-8e1d-e519c971a261" />
   <a/>
 
-
+<a href="https://emilyperezangel.github.io/nft-marketplace/">
+<img height="200" src="https://github.com/user-attachments/assets/77b4e763-12db-4cd4-9fd9-b0b4bf8f048f" />
+  <a/>
 
 
 
