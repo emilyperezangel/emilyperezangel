@@ -2,11 +2,11 @@
 ## _Full Stack Web Development Master's student_ 
 
 <a href="https://emilyperezangel.github.io/header-business-agency/">
-<img height="300" src="https://github.com/user-attachments/assets/dcdea9f2-cec2-43b8-85ec-cf81d0341d95">
+<img height="200" src="https://github.com/user-attachments/assets/dcdea9f2-cec2-43b8-85ec-cf81d0341d95">
   <a/>
 
 <a href="https://emilyperezangel.github.io/creative-company/">
-<img height="300" src="https://github.com/user-attachments/assets/fc15525d-fda9-4bc0-b044-aa3e7fe164d5">
+<img height="200" src="https://github.com/user-attachments/assets/fc15525d-fda9-4bc0-b044-aa3e7fe164d5">
   <a/>
 
 
