@@ -1,6 +1,8 @@
 # EMILY C PEREZ ANGEL
 ## _Full Stack Web Development Master's student_ 
 
+<img width="1921" height="1028" alt="image" src="https://github.com/user-attachments/assets/fc15525d-fda9-4bc0-b044-aa3e7fe164d5" />
+
 
 
 
