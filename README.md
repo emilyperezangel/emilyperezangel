@@ -24,3 +24,9 @@
 <img height="200" src="https://github.com/user-attachments/assets/77b4e763-12db-4cd4-9fd9-b0b4bf8f048f" />
     </kbd>
   <a/>
+
+<a href="https://emilyperezangel.github.io/grocery-store/">
+  <kbd>
+<img height="200" src="https://github.com/user-attachments/assets/26d7f2f2-f8c0-4f05-9173-ac3cd1457f43" />
+    </kbd>
+  <a/>
